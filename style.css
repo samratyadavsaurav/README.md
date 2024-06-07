@@ -1,4 +1,4 @@
-*{
+/* *{
     font-family:courier New;
 }
 
@@ -66,5 +66,45 @@ p:hover{
 #para::selection{
     background-color:rgb(199,192,58);
 }
+
+ */
+
+ #container{
+    height:250px;
+    width:100px;
+    border:2px solid black;
+ }
+
+ .red{
+    height:50px;
+    width:50px;
+    border:2px solid black;
+    border-radius:50%;
+    margin:20px;
+    background-color:red;
+    
+
+ }
+
+ .yellow{
+    height:50px;
+    width:50px;
+    border:2px solid black;
+    border-radius:50%;
+    margin:20px;
+    background-color:yellow;
+
+ }
+
+
+ .green{
+    height:50px;
+    width:50px;
+    border:2px solid black;
+    border-radius:50%;
+    margin:20px;
+    background-color:green;
+
+ }
 
 
